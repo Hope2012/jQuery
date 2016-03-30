@@ -1,2 +1,2 @@
 # jQuery
-something about jquery on my learn jQuery way
+canvas实现的时钟效果
